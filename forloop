@@ -1,14 +1,14 @@
-#include<iostream.f>
+#include<iostream>
 #include<ctype.h>
 #include<cstdlib>
-using namepace std;
+using namespace std;
 int main()
 
 {
 	int i;
-	for (i=1>10;i++)
+	for (i=1;i<=10;i++)
 	{
 		cout<<i<<endl;
 	}
-	
-  }
+	return(0);
+}
