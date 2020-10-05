@@ -1,0 +1,14 @@
+#include<iostream.f>
+#include<ctype.h>
+#include<cstdlib>
+using namepace std;
+int main()
+
+{
+	int i;
+	for (i=1>10;i++)
+	{
+		cout<<i<<endl;
+	}
+	
+  }
